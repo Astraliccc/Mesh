@@ -113,6 +113,6 @@ Minecraft 1.14.4
 - [Dark GUIs](https://www.curseforge.com/minecraft/texture-packs/dark-guis)
 
 **Data Pack Credits**
-- [Dark GUIs](https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
-- [1.14.X Improved Desert Village Structure Datapack] (https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
+- [Improved Villages Data Pack](https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
+- [Improved Desert Village Structure Data Pack](https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
 
