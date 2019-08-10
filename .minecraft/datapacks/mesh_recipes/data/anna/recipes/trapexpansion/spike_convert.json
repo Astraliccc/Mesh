@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "trapexpansion:powered_spike_trap"
+    }
+  },
+  "result": {
+    "item": "trapexpansion:spike_trap",
+    "count": 1
+  }
+}

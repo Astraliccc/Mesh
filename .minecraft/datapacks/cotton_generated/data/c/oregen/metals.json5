@@ -1,0 +1,25 @@
+{
+	"generators": {
+		"cobalt": {
+			"dimensions": [ "minecraft:the_nether" ],
+
+			"ore_block": "c:cobalt_ore",
+			
+			"min_height": 6,
+			"max_height": 64,
+			"cluster_count": 15,
+			"cluster_size": 3
+		},
+		"osmium": {
+			"dimensions": [ { "tag": "overworlds" } ],
+
+			"ore_block": "c:osmium_ore",
+
+			"min_height": 6,
+			"max_height": 30,
+			"cluster_count": 1,
+			"cluster_size": 2
+		}
+	},
+	"replacements": { "cobalt": { "minecraft:netherrack": "c:cobalt_nether_ore" } }
+}

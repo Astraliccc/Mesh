@@ -1,0 +1,11 @@
+splash_splitProgressBars = "IN_ORDER"
+splash_maxProgressBarRows = 3
+splash_forceVanillaProgressBars = false
+
+[worldload_loveDisplay]
+simplifyColors = false
+bigChunkViewer = false
+showProgressBar = true
+
+[worldload_hateDisplay]
+progressBarDisplay = true

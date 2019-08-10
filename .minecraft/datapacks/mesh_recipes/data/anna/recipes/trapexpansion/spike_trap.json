@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " I ",
+    "IDI",
+    "PPP"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_sword"
+    },
+    "P": {
+      "tag": "c:iron_plate"
+    },
+    "D": {
+      "item": "trapexpansion:detector"
+    }
+  },
+  "result": {
+    "item": "trapexpansion:spike_trap",
+    "count": 1
+  }
+}

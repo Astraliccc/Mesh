@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"CSC",
+		"ROR",
+		"CGC"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:stone"
+		},
+		"S": {
+			"tag": "c:steel_block"
+		},
+		"G": {
+			"tag": "c:steel_gear"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"O": {
+			"item": "netherthings:obsidian_rod"
+		}
+	},
+	"result": {
+		"item": "betterutilities:fan",
+		"count": 1
+	}
+}
