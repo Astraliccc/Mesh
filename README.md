@@ -1,6 +1,26 @@
-# Mesh
-Mesh Modpack for Fabric
+# Mesh Modpack - Modded Minecraft 1.14.4
+**About Mesh**
 
+Mesh is an experimental modpack focused on providing a balanced modded 1.14.4 experience using Fabric. The current focus of this pack is to provide a large variety of mods with little feature overlap, enhanced mod intercompatibility, interesting world generation and a stable high performance experience.
+
+***Important Note***
+This pack is currently in alpha as are many of the mods included. Expect instability, bugs, crashes, broken features, etc. If you find any issues please post them to the issue tracker. Feel free to post enhancements there as well.
+
+***Discord: soon™***
+***Public Mesh Server: soon™***
+***Curse: Whenever they decide to add Fabric Support***
+
+# Files
+
+**Installation**
+
+ 1.  Download and install MultiMC From: https://multimc.org/
+ 2. Login to MultiMC using your Minecraft credentials 
+ 3. Download the Mesh files from the link above
+ 4. Drag and drop the Mesh.zip file onto the MultiMC client window, make sure "Import from zip" is the selected option.
+ 5. Once imported you will be able to launch the modpack from the instance that appears in the MultiMC menu.
+
+# Mesh Version 1.0.0a 
 **Loader**
 Minecraft 1.14.4
 [FabricLoader 1.14.4+build.9_yarn-0.4.8+build.159](https://fabricmc.net)
@@ -113,6 +133,6 @@ Minecraft 1.14.4
 - [Dark GUIs](https://www.curseforge.com/minecraft/texture-packs/dark-guis)
 
 **Data Pack Credits**
-- [Improved Villages Data Pack](https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
+- [Improved Villages Data Pack](https://www.planetminecraft.com/mod/1-14-improved-plains-village-structures-datapack/)
 - [Improved Desert Village Structure Data Pack](https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
 
