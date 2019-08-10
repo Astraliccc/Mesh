@@ -1,0 +1,49 @@
+{ 
+	// Stores the version of the config; used if the config format changes so that old values can be transferred to the new format. DO NOT EDIT.
+	"config_version": 1,
+	// Enable/Disable items.
+	"items": { 
+		// Set to false to disable chain-links.
+		"chain_link": true,
+		// Set to false to disable dynamite.
+		"dynamite": true,
+		// Set to false to disable the wrench.
+		"wrench": true,
+		// Set to false to disable fertilizer.
+		"fertilizer": true
+	},
+	// Enable/Disable blocks.
+	"blocks": { 
+		// Set to false to disable gold buttons.
+		"gold_button": true,
+		// Set to false to disable the Analog Redstone Emitter.
+		"analog_redstone_emitter": true,
+		// Set to false to disable trimmed-vine blocks.
+		"trimmed_vine": true,
+		// Set to false to disable pole blocks.
+		"poles": true
+	},
+	// Enable/disable potions.
+	"potions": { 
+		// Set to false to disable the Potion of Insight.
+		"insight": true
+	},
+	// Enable, disable, and configure various world gen features.
+	"world": { 
+		// Set to false to disable gold deposits in rivers.
+		"gold_in_rivers": true,
+		// Sets the spawn rate of river gold ore in a single river gold deposit. Does not set the spawn rate of the deposits themselves. [Range 0 to 100]
+		"river_gold_percent": 10.0,
+		// Disables small water and lava ponds. Set to false to re-enabled them.
+		"disable_ponds": true
+	},
+	// Miscellaneous settings.
+	"misc": { 
+		// Set to false to disable dispensers planting crops.
+		"dispenser_crop_planting": true,
+		// Set to false to disable dispensers breaking and placing ladders and scaffolding.
+		"dispenser_ladder_placement": true,
+		// Disables hostile mob spawning in Bamboo Jungle and Bamboo Jungle hills biomes (Just like Mushroom Islands). Set to false to re-enable.
+		"peaceful_bamboo_jungle": true
+	}
+}
