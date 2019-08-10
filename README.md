@@ -7,7 +7,9 @@ Mesh is an experimental modpack focused on providing a balanced modded 1.14.4 ex
 This pack is currently in alpha as are many of the mods included. Expect instability, bugs, crashes, broken features, etc. If you find any issues please post them to the issue tracker. Feel free to post enhancements there as well.
 
 ***Discord: soon™***
+
 ***Public Mesh Server: soon™***
+
 ***Curse: Whenever they decide to add Fabric Support***
 
 # Files
