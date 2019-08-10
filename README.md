@@ -67,7 +67,6 @@ Minecraft 1.14.4
 - [Mpcs's Backpacks: Mpcs'+Backpacks+v1.1.4+-+1.14.2.jar](https://www.curseforge.com/minecraft/mc-mods/mpcs-backpacks)
 - [MyCommands: Mycommands-1.14.2-06.jar](https://www.curseforge.com/minecraft/mc-mods/mycommands)
 - [Nether Things: netherthings-1.1.3.1.jar](https://www.curseforge.com/minecraft/mc-mods/nether-things)
-- [Nice To Have (Fabric): nice-to-have-1.1.0.jar](https://www.curseforge.com/minecraft/mc-mods/nice-to-have)
 - [Orderly (Fabric): orderly-1.0.1+build.7.jar](https://www.curseforge.com/minecraft/mc-mods/orderly)
 - [Over Populated (NOW CONFIGURABLE!!!): Over_Populated-1.1.jar](https://www.curseforge.com/minecraft/mc-mods/over-populated)
 - [Oysters: oysters-0.0.8.jar](https://www.curseforge.com/minecraft/mc-mods/oysters)
@@ -108,3 +107,12 @@ Minecraft 1.14.4
 - [MaLiLib: malilib-fabric-1.14.4-0.10.0-dev.20.jar](https://www.curseforge.com/minecraft/mc-mods/malilib)
 - [Protos: Protos-1.14.4-1.0.3-fabric.jar](https://www.curseforge.com/minecraft/mc-mods/protos)
 - [Reborn Core: RebornCore-1.14.4-4.0.6.112.jar](https://www.curseforge.com/minecraft/mc-mods/reborncore)
+
+**Resource Pack Credits**
+- [Unity - UI Elements](https://www.curseforge.com/minecraft/texture-packs/unity)
+- [Dark GUIs](https://www.curseforge.com/minecraft/texture-packs/dark-guis)
+
+**Data Pack Credits**
+- [Improved Villages Datapack] (https://www.planetminecraft.com/mod/1-14-improved-plains-village-structures-datapack/)
+- [1.14.X Improved Desert Village Structure Datapack] (https://www.planetminecraft.com/mod/1-14-x-improved-desert-village-datapack/)
+
