@@ -1,0 +1,32 @@
+{
+  "copper_ore": {
+    "size": 9,
+    "count": 40,
+    "maxHeight": 64,
+    "generate": false
+  },
+  "tin_ore": {
+    "size": 9,
+    "count": 40,
+    "maxHeight": 64,
+    "generate": false
+  },
+  "lead_ore": {
+    "size": 9,
+    "count": 40,
+    "maxHeight": 50,
+    "generate": false
+  },
+  "silver_ore": {
+    "size": 9,
+    "count": 35,
+    "maxHeight": 40,
+    "generate": false
+  },
+  "nickel_ore": {
+    "size": 9,
+    "count": 40,
+    "maxHeight": 60,
+    "generate": false
+  }
+}

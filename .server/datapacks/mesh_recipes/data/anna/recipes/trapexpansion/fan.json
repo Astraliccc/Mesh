@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"CPC",
+		"RSR",
+		"CGC"
+	],
+	"key": {
+		"C": {
+			"item": "minecraft:stone"
+		},
+		"P": {
+			"tag": "minecraft:planks"
+		},
+		"G": {
+			"tag": "c:stone_gear"
+		},
+		"R": {
+			"item": "minecraft:redstone"
+		},
+		"S": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"item": "trapexpansion:fan",
+		"count": 1
+	}
+}

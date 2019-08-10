@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"PEP",
+		"ENE",
+		"PEP"
+	],
+	"key": {
+		"P": {
+			"tag": "c:tungstensteel_plate"
+		},
+		"N": {
+			"item": "minecraft:nether_star"
+		},
+		"E": {
+			"item": "techreborn:energy_flow_chip"
+		}
+	},
+	"result": {
+		"item": "refinedmachinery:steel_ingot",
+		"count": 1
+	}
+}
