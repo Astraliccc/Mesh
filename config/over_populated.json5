@@ -1,9 +1,0 @@
-{ 
-	"spawnDist": 50,
-	"spawnSize": 24,
-	"biomes": 1,
-	"WARNING": "If you change settings in ModMenu you must restart game for it to take effect.",
-	"BB": "Biomes: 0=Vanilla Biomes only. 1=All but Oceans, Nether and The End. 2=Same as 1 but with Ice villages in the Nether Biome. 3=Only Nether and The End are disabled. 4=Only The End is disabled and Ice villages in the Nether",
-	"SD": "Dist: Smaller equals closer villages: Default:32",
-	"SS": "Size: At size 24 villages are 160x160 block area.. If you set to Size 24 and go below Distance of about 9 you will get overlapping buildings. At size 6 and distance 4 you will get the settings I used to cover the world in villages. Village size above 24 does not do anything different"
-}
