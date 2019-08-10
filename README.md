@@ -1,32 +1,37 @@
 # Mesh Modpack - Modded Minecraft 1.14.4
 **About Mesh**
 
-Mesh is an experimental modpack focused on providing a balanced modded 1.14.4 experience using Fabric. The current focus of this pack is to provide a large variety of mods with little feature overlap, enhanced mod intercompatibility, interesting world generation and a stable high performance experience.
+Mesh is an experimental modpack focused on providing a balanced modded 1.14.4 experience using Fabric. The current focus of this pack is to provide a large variety of mods with minimal feature overlap, enhanced mod intercompatibility, interesting world generation and a stable high performance experience.
 
 ***Important Note***
-This pack is currently in alpha as are many of the mods included. Expect instability, bugs, crashes, broken features, etc. If you find any issues please post them to the issue tracker. Feel free to post enhancements there as well.
+This pack is currently in alpha as are many of the mods included. Expect instability, bugs, crashes, broken features, etc. If you find any issues please post them to the issue tracker. Feel free to post enhancements there as well. The pack has been verified working correctly on the latest release of Oracle's Java 8 and Java 8 OpenJDK, these are the only recommended java versions.
 
 ***Discord: https://discord.gg/Px5SMP***
 
-***Public Mesh Server: soon™***
+***Public Mesh Server (North America): soon™ (Need to setup an instance on my dedicated server when I have time)***
 
 ***Curse: Whenever they decide to add Fabric Support***
 
 # Files
 
-All Releases:
+All Releases: https://github.com/Astraliccc/Mesh/releases
 
-Client:
+Latest Client (MultiMC): https://github.com/Astraliccc/Mesh/releases/download/Release/Mesh-1.0.0a.zip
 
-Server: 
+Latest Server: https://github.com/Astraliccc/Mesh/releases/download/Release/Mesh-Server-1.0.0a.zip
 
-**Installation**
+**Installation Client**
 
- 1.  Download and install MultiMC From: https://multimc.org/
+ 1. Download and install MultiMC From: https://multimc.org/
  2. Login to MultiMC using your Minecraft credentials 
  3. Download the Mesh files from the link above
  4. Drag and drop the Mesh.zip file onto the MultiMC client window, make sure "Import from zip" is the selected option.
  5. Once imported you will be able to launch the modpack from the instance that appears in the MultiMC menu.
+ 
+ **Installation Server**
+ 
+ The server files require no additional setup and include basic startup scripts with some performance optimizations if you don't want to use your own.
+ 
 
 # Mesh Version 1.0.0a 
 **Loader**
