@@ -1,0 +1,31 @@
+{
+"enabled": true,
+"toolColor": "8947879",
+"toolDurability": 1000.0,
+"miningLevel": 3.0,
+"enchantability": 14.0,
+"durabilityMultiplier": 1.1,
+"breakingSpeedMultiplier": 1.2,
+"toolSpeed": 10.0,
+"attackDamage": 2.0,
+"name": "techreborn:tungstensteel_ingot",
+"materialTranslationKey": "Tungstensteel",
+"bright": true,
+"ingredients": [
+  {
+    "ingredient": {
+      "type": "tag",
+      "content": "c:tungstensteel_ingot"
+    },
+    "multiplier": 2.0
+  },
+  {
+    "ingredient": {
+      "type": "tag",
+      "content": "c:tungstensteel_block"
+    },
+    "multiplier": 18.0
+  }
+],
+"fullAmount": 150.0
+}

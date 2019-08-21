@@ -2,11 +2,11 @@
 	// When do trees break? (NO_SUPPORT, LOG_BREAK, or USE_TOOL)
 	"fallCondition": "NO_SUPPORT",
 	// Log blocks move to the ground instead of dropping as items. Can be laggy.
-	"keepLogsIntact": true,
+	"keepLogsIntact": false,
 	// Render falling logs? (Affects client side only.) Can be laggy.
-	"renderFallingLogs": true,
+	"renderFallingLogs": false,
 	// Falling logs break leaves and other plants on the way down.
-	"fallingLogsBreakPlants": true,
+	"fallingLogsBreakPlants": false,
 	// Falling logs break glass and other fragile blocks.
 	"fallingLogsBreakFragile": false,
 	// Protect logs placed by players.

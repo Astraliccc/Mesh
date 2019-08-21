@@ -22,7 +22,7 @@
       "enable": true
     },
     "dense_woodlands": {
-      "weight": 1.2,
+      "weight": 0.95,
       "enable": true
     },
     "cypress_forest": {
@@ -34,7 +34,7 @@
       "enable": true
     },
     "cypress_swamp": {
-      "weight": 1.2,
+      "weight": 0.9,
       "enable": true
     }
   },

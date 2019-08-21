@@ -3,7 +3,7 @@
   "EnableEnderProtection": true,
   "EnablePotionRetention": true,
   "EnableTamedProtection": true,
-  "EnableTreeFeller": true,
+  "EnableTreeFeller": false,
   "EnableVeinMiner": true,
   "VeinMinerMaxBreakByLvl": [
     7,

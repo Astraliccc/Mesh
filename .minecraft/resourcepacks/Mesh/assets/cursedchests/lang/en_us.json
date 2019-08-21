@@ -1,0 +1,8 @@
+{
+  "container.cursedchests.wood_chest": "\u00A7fChest",
+  "container.cursedchests.iron_chest": "\u00A7fIron Chest",
+  "container.cursedchests.gold_chest": "\u00A7fGold Chest",
+  "container.cursedchests.diamond_chest": "\u00A7fDiamond Chest",
+  "container.cursedchests.obsidian_chest": "\u00A7fObsidian Chest",
+  "container.cursedchests.generic_double": "\u00A7fLarge %s"
+}

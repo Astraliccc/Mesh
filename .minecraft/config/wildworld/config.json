@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"thornsDamage": 1.0,
+	"thornsDamage": 2.0,
 	"debuggingFullBiomeConfig": false,
 	"generation": {
 		"biomeDefault": {

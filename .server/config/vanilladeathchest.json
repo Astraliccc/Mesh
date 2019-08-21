@@ -18,7 +18,7 @@
 				"Leave this empty to not specify a custom name.",
 				"Default: Death Chest"
 			],
-			"value": "Death Chest"
+			"value": "Git Gud"
 		},
 		"chestType": {
 			"description": [

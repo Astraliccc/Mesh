@@ -1,0 +1,20 @@
+{ 
+	// Inventories that should not be sorted
+	"blacklistedInventories": [ 
+		"abused_master.refinedmachinery.client.gui.gui.GuiCoalGen",
+		"abused_master.refinedmachinery.client.gui.gui.GuiQuarry",
+		"abused_master.refinedmachinery.client.gui.gui.GuiFarmer",
+		"abused_master.refinedmachinery.client.gui.gui.GuiEnergyCharger",
+		"abused_master.refinedmachinery.client.gui.gui.GuiDisenchanter",
+		"abused_master.refinedmachinery.client.gui.gui.GuiPulverizer",
+		"abused_master.refinedmachinery.client.gui.gui.GuiEnergyFurnace",
+		"me.shedaniel.materialisation.containers.MaterialPreparerScreen",
+		"me.shedaniel.materialisation.containers.MaterialisingTableScreen",
+		"net.nerds.oysters.oysters.OysterGui",
+		"dan200.computercraft.client.gui.GuiComputer",
+		"dan200.computercraft.client.gui.GuiTurtle",
+		"dan200.computercraft.client.gui.GuiPocketComputer",
+		"dan200.computercraft.client.gui.GuiDiskDrive",
+		"dan200.computercraft.client.gui.GuiPrinter"
+	]
+}

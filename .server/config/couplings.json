@@ -1,6 +1,6 @@
 {
-  "ignore_sneaking": false,
-  "coupling_range": 128,
+  "ignore_sneaking": true,
+  "coupling_range": 8,
   "enabled_features": {
     "doors": true,
     "fence_gates": true,

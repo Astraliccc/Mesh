@@ -1,39 +1,31 @@
 { 
-	"cheating": false,
-	"appendModNames": true,
-	// The ordering of the items on the item panel.
-	"itemListOrdering": "registry",
-	// The ordering of the items on the item panel.
-	"isAscending": true,
-	// To toggle the craftable button next to the search field.
-	"enableCraftableOnlyButton": false,
-	// True: search field will be on the side (left / right), false: in the middle
-	"sideSearchField": false,
-	// The command used in servers to cheat items
-	"giveCommand": "/minecraft:give {player_name} {item_identifier}{nbt} {count}",
-	// The command used to change gamemode
-	"gamemodeCommand": "/gamemode {gamemode}",
-	// The command used to change weather
-	"weatherCommand": "/weather {weather}",
-	// True: item panel on the left, false: on the right
-	"mirrorItemPanel": false,
-	// To disable REI's default plugin, don't change this unless you understand what you are doing
-	"loadDefaultPlugin": true,
-	// Maximum recipes viewed at one time.
-	"maxRecipePerPage": 3,
-	// Toggle utils buttons
-	"showUtilsButtons": true,
-	// Disable Recipe Book
-	"disableRecipeBook": false,
-	"itemCheatingMode": "REI_LIKE",
-	"lightGrayRecipeBorder": false,
-	"villagerScreenPermanentScrollBar": false,
-	"darkTheme": true,
-	"registerRecipesInAnotherThread": true,
-	"screenType": "ORIGINAL",
-	// The location of choose page dialog, will automatically be set to your last location so there is no need to change this.
-	"choosePageDialogPoint": { 
-		"relativeX": 0.5,
-		"relativeY": 0.5
+	"technical": { 
+		"gamemodeCommand": "/gamemode {gamemode}",
+		"registerRecipesInAnotherThread": true,
+		"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+		"loadDefaultPlugin": true,
+		"weatherCommand": "/weather {weather}"
+	},
+	"modules": { 
+		"disableRecipeBook": false,
+		"showUtilsButtons": true,
+		"enableCraftableOnlyButton": false
+	},
+	"!general": { 
+		"cheating": false
+	},
+	"appearance": { 
+		"maxRecipePerPage": 3,
+		"darkTheme": true,
+		"searchFieldLocation": "CENTER",
+		"itemListOrdering": "REGISTRY_ASCENDING",
+		"recipeScreenType": "ORIGINAL",
+		"villagerScreenPermanentScrollBar": false,
+		"scrollingEntryListWidget": false,
+		"itemCheatingMode": "REI_LIKE",
+		"appendModNames": false,
+		"lightGrayRecipeBorder": false,
+		"mirrorItemPanel": false,
+		"clickableRecipeArrows": true
 	}
 }

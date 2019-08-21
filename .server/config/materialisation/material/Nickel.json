@@ -1,0 +1,31 @@
+{
+"enabled": true,
+"toolColor": "13684654",
+"toolDurability": 750.0,
+"miningLevel": 2.0,
+"enchantability": 16.0,
+"durabilityMultiplier": 1.1,
+"breakingSpeedMultiplier": 0.5,
+"toolSpeed": 5.0,
+"attackDamage": 1.5,
+"name": "techreborn:nickel_ingot",
+"materialTranslationKey": "Nickel",
+"bright": true,
+"ingredients": [
+  {
+    "ingredient": {
+      "type": "tag",
+      "content": "c:nickel_ingot"
+    },
+    "multiplier": 2.0
+  },
+  {
+    "ingredient": {
+      "type": "tag",
+      "content": "c:nickel_block"
+    },
+    "multiplier": 18.0
+  }
+],
+"fullAmount": 100.0
+}

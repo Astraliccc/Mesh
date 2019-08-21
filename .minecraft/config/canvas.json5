@@ -12,7 +12,7 @@
 	// Mimics directional light.
 	"diffuseShadingMode": "NORMAL",
 	// Makes light sources less cross-shaped. Chunk loading a little slower. Overall light levels remain similar.
-	"lightSmoothing": true,
+	"lightSmoothing": false,
 	// Mimics light blocked by nearby objects.
 	"aoShadingMode": "NORMAL",
 	// Setting > 0 may give slightly better FPS at cost of potential flickering when lighting changes.
@@ -38,7 +38,11 @@
 	// Summarizes multiple errors and warnings to single-line entries in the log.
 	"conciseErrors": true,
 	// Writes information useful for bug reports to the game log at startup.
-	"logMachineInfo": true,
+	"logMachineInfo": false,
 	// Writes OpenGL state changes to log.  *VERY SPAMMY - KILLS FRAME RATE*  Used only for debugging.
-	"logGlStateChanges": false
+	"logGlStateChanges": false,
+	// Enables LWJGL memory allocation tracking.  Will harm performance. Use for debugging memory leaks. Requires restart.
+	"debugNativeMemoryAllocation": false,
+	// Uses slower/safer memory allocation method for GL buffers.  Use only if having problems. Requires restart.
+	"safeNativeMemoryAllocation": false
 }

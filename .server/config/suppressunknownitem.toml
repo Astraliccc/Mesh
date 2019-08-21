@@ -1,3 +1,0 @@
-enabled = true
-logLevel = "DEBUG"
-recipeMessageMatchers = ["^Unknown item .+", "^Invalid or unsupported recipe type .+"]

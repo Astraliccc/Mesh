@@ -137,6 +137,8 @@ general {
     IC2TransformersStyle=null
     # Enable Gem armor and tools
     enableGemTools=null
+    # Allow refunding items used to craft the manual
+    manualRefund=null
 }
 generator {
     # Solid Fuel Generator Energy Output Amount (Value in EU)
@@ -305,8 +307,6 @@ recycler {
     RecyclerInput=null
     # Recycler Max Energy (Value in EU)
     RecyclerMaxEnergy=null
-    # When enabled and when ic2 is installed the recycler will make ic2 scrap
-    produceIC2Scrap=null
 }
 "rolling_machine" {
     # Rolling Machine Energy Per Tick (Value in EU)
@@ -364,6 +364,10 @@ solarPanelUltimate {
     # Generation rate during night for Ultimate Solar Panel (Value in FE)
     ultimateNightRate=null
 }
+"solid_canning_machine" {
+    # Solid Canning Machine Max Energy (Value in EU)
+    solidCanningMachineMaxInput=null
+}
 "thermal_generator" {
     # Thermal Generator Energy Per Tick (Value in EU)
     ThermalGeneratorEnergyPerTick=null
@@ -387,10 +391,6 @@ vacuumfreezer {
     VacuumFreezerInput=null
     # Vacuum Freezer Max Energy (Value in EU)
     VacuumFreezerMaxEnergy=null
-}
-village {
-    # When true TechReborn will add Rubber tree farm to villages.
-    enableRubberTreePlantation=null
 }
 "water_mill" {
     # Water Mill Energy Multiplier

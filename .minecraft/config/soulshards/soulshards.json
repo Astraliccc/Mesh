@@ -4,9 +4,9 @@
     "absorptionBonus": 200,
     "allowBossSpawns": false,
     "countCageBornForShard": false,
-    "requireOwnerOnline": false,
-    "requireRedstoneSignal": false,
-    "spawnCap": 32
+    "requireOwnerOnline": true,
+    "requireRedstoneSignal": true,
+    "spawnCap": 12
   },
   "client": {
     "displayDurabilityBar": true

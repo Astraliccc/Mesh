@@ -89,7 +89,16 @@
 		"trapexpansion:spike_trap",
 		"trapexpansion:powered_spike_trap",
 		"trapexpansion:fan",
-		"refinedmachinery:steel_ingot"
+		"refinedmachinery:steel_ingot",
+		"fabric-furnaces:end_furnace",
+		"fabric-furnaces:emerald_furnace",
+		"fabric-furnaces:ethereal_furnace",
+		"fabric-furnaces:crystal_end_furnace",
+		"fabric-furnaces:crystal_emerald_furnace",
+		"fabric-furnaces:crystal_ethereal_furnace",
+		"fabric-furnaces:end_furnace_revert",
+		"fabric-furnaces:emerald_furnace_revert",
+		"fabric-furnaces:ethereal_furnace_revert"
 	],
 	// Item identifiers specified here will prevent any recipe for one of that item.
 	"removeRecipesByItem": [ 
